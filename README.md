@@ -1,4 +1,4 @@
-# 💫 About Me:
+#About Me
 Hi 👋 im Jaime. I’m a 21-year-old Computer Science engineer and BBA major with a strong passion for machine learning—especially its applications in finance. I love blending tech and data to uncover insights in markets. Outside of coding, you’ll find me on the tennis court, where strategy and precision keep me sharp both mentally and physically.<br><br>
 
 
